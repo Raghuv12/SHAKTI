@@ -1,0 +1,180 @@
+*{
+    font-family: sans-serif;
+}
+.facebook-box{
+    height: 585px;
+    width: 300px;
+    border: 1px solid rgb(224, 223, 223);
+    margin:5px auto;
+
+}
+.container1{
+    height: 50px;
+    font-weight:545;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid lightgrey;
+}
+.profile-picture{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    margin:0px 13px ;
+}
+.text{
+    font-size: 13px;
+
+}
+.container2{
+    height: 30px;
+    border-bottom: 11px solid lightgray;
+    font-size: 11px;
+    display: flex;
+    align-items: center;
+   
+}
+.live-icon{
+    display: flex;
+    border-right: 1px solid lightgray;
+    padding: 0px 29px;
+}
+/* .live{
+    margin-bottom:13px;
+} */
+.fi-ss-video-plus{
+    color: rgb(241, 10, 10);
+    font-weight:bold;
+    margin-right:3px;
+    font-size: 12px;
+}
+.photo-icon-c2{
+    display: flex;
+    border-right: 1px solid lightgray;
+    /* margin:0px 21px; */
+    padding: 0px 29px;
+}.photo{
+    margin-left: 3px;
+}
+.fi-br-picture{
+    color: rgb(10, 241, 87);
+    font-weight:bold;
+}
+.event-icon-c2{
+    display: flex;
+    padding-left:28px;
+}
+.life{
+    margin-left: 3px;
+}
+.fi-ss-flag-alt{
+    color: rgb(46, 16, 157);
+    font-weight:bold;
+}
+.container3{
+    height: 54px;
+    border-bottom: 11px solid lightgray;
+    display: flex;
+    align-items: center;
+    font-size: 11px;
+    
+}
+.child1{
+    height: 25px;
+    width: 80px;
+    border-radius: 20px;
+    background-color:rgba(230, 230, 230, 0.836);
+    margin:0px 10px;
+    display: flex;
+    align-items: center;
+    padding-left: 17px;
+    font-weight: 700;
+}
+.fi-bs-picture{
+    margin: 0px 3px;
+    font-weight: 800;
+}
+/* .photos{
+    font-weight: 700;
+} */
+.child2{
+    height: 25px;
+    width: 80px;
+    border-radius: 20px;
+    background-color:rgba(230, 230, 230, 0.836);
+    margin:0px 10px;
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+}
+.fi-sr-woman-head{
+    margin: 0px 3px;
+    padding-left: 6px;
+}
+.child3{
+    height: 25px;
+    width: 90px;
+    border-radius: 20px;
+    background-color:rgba(230, 230, 230, 0.836);
+    margin:0px 10px;
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+}
+.fi-sr-grin-stars{
+    margin: 0px 3px;
+    padding-left: 4px;
+}
+.container4{
+    height: 50px;
+    border-bottom: 1px solid lightgray;
+    display: flex;
+    align-items: center;
+    position: relative;
+}.container4-1{
+    position: absolute;
+    top: 12.5px;
+    left: 60px;
+}
+.name{
+    display: flex;
+    position: relative;
+    font-size: 16px;
+    font-weight: 600;
+}
+.p{
+    color: rgb(185, 184, 184);
+    position: absolute;
+    bottom: -12px;
+    font-size: 11px;
+    font-weight: 300;
+}
+.dot{
+    color: rgb(185, 184, 184);
+    position: absolute;
+    bottom: -10px;
+    left: 17px;
+    font-size: 11px;
+    font-weight: 800;
+}
+.world{
+    color: rgb(185, 184, 184);
+    position: absolute;
+    bottom: -12px;
+    left: 26px;
+    font-size: 10px;
+    font-weight: 300;
+}
+.more{
+    font-size: 25px;
+    color: rgb(184, 183, 183);
+    position: absolute;
+    top: -10px;
+    right: 4px;
+}
+.name{
+font-size: 14px;
+}
+img{
+    height:378px;
+    width: 100%;
+}
